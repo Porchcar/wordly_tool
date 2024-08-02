@@ -17,7 +17,7 @@ default_icon = "AAABAAUAEBAAAAEAIABoBAAAVgAAACAgAAABACAAqBAAAL4EAABAQAAAAQAgAChC
 
 default_language = '''{
     "重置":"重置",
-    "猜单词外挂":"猜单词外挂",
+    "猜单词工具":"猜单词工具",
     "提示":"提示",
     "添加成功！":"添加成功！",
     "不确定":"不确定",
